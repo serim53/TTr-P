@@ -40,6 +40,12 @@
 
 <br/>
 
+### 🍀플레이스토어 배포 [📎 바로가기](https://play.google.com/store/apps/details?id=org.sfy.ttrip)
+
+<img src="https://github.com/serim53/serim53/assets/67946662/7dc393a8-c05a-436a-95ca-e1e13dcfaaca" width="600"/>
+
+<br/><br/>
+
 ---
 
 ## 🔨기술 스택 및 라이브러리
@@ -251,14 +257,6 @@
 
 ---
 
-
-## 🧩 아키텍처
-
-<img src="https://github.com/serim53/Kkaddak/assets/67946662/ecb531fc-655b-4042-a8ce-8571710abb30" width="800"/>
-
-<br/>
-
----
 
 ## 🎇 추가 자료
 
